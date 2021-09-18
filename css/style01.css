@@ -1,0 +1,12 @@
+.slider_section .container .slide_img{
+    height: 400px;
+    width: 500px;
+    border-radius: 20px;
+}
+
+.about .img-responsive {
+    height: 400px;
+    width: 400px;
+    border-radius: 20px;
+    
+}
